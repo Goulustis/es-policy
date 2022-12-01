@@ -30,7 +30,7 @@ To run all experiments do:
 ```
 python all_run_experiments.py
 ```
-results will be under presentation_exps
+results will be under presentation_exps directory
 
 
 For details of ES and FD consult:
