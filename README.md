@@ -1,4 +1,4 @@
-# es-policy
+# Exploration of Evolutionary Strategy and Finite Differences
 
 ES implemetation is taken from [here](https://github.com/Howuhh/evolution_strategies_openai/tree/8e9c369b5df94a4afeb6773f686fca1298a69285)
 
