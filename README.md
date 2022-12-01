@@ -34,5 +34,7 @@ results will be under presentation_exps
 
 
 For details of ES and FD consult:
-- https://arxiv.org/pdf/1703.03864.pdf (FD)
-- https://arxiv.org/pdf/1712.06568.pdf (ES)
+- [Evolution Strategies as a
+Scalable Alternative to Reinforcement Learning](https://arxiv.org/pdf/1703.03864.pdf) (ES)
+- [ES Is More Than Just a Traditional Finite-Difference
+Approximator](https://arxiv.org/pdf/1712.06568.pdf) (FD)
