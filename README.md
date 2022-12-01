@@ -31,3 +31,8 @@ To run all experiments do:
 python all_run_experiments.py
 ```
 results will be under presentation_exps
+
+
+For details of ES and FD consult:
+- https://arxiv.org/pdf/1703.03864.pdf (FD)
+- https://arxiv.org/pdf/1712.06568.pdf (ES)
