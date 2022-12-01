@@ -20,6 +20,10 @@ but **suffers** in
 - gradient gaps
 - local optima 
 
+Combining them can traverse landscape that both ES and FD cannot solve individually:
+![corner peak](presentation_exps/corner_peak/train_traj.gif)
+
+![narrowing peak](presentation_exps/narrowing_peaks/train_traj.gif)
 
 To run a single experiment do:
 ```
